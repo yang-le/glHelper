@@ -2,10 +2,7 @@
 一个简单的OpenGL/EGL函数包装库
 
 ## 用法与用量
-包含头文件
     #include "glHelper.h"
-即可使用以下函数
-
 | 函数                 | 说明                      |
 | ------------------- | ------------------------ |
 | GL_LOG(fmt, ...)    | 记录一条log                |
@@ -21,7 +18,7 @@
 A simple OpenGL/EGL function call wrapper libarary
 
 ## usage
-
+    #include "glHelper.h"
 | Function            | Summary                             |
 | ------------------- | ----------------------------------- |
 | GL_LOG(fmt, ...)    | Log a message                       |
