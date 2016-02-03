@@ -1,4 +1,4 @@
-<a href="#usage">English Version</a>
+<a href="#glhelper-1">English Version</a>
 
 # glHelper
 一个简单的OpenGL/EGL函数包装库
